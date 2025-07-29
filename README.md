@@ -15,7 +15,7 @@ Please **do not report bugs in this repository**.
 
 All technical issues, bugs, and code-related problems should be reported in the main repo:
 
-- [consumer-rights-wiki](https://github.com/Consumer-Rights-Wiki-Org/wiki)
+- [consumer-rights-wiki](https://github.com/Consumer-Rights-Wiki-Org/wiki/issues)
 
 ---
 
