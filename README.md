@@ -19,7 +19,7 @@ All technical issues, bugs, and code-related problems should be reported in the 
 
 ---
 
-## Unified Issue Tracker
+## Shared Project View
 
 Both this tracker and the main issue tracker are combined into a single project board:
 
