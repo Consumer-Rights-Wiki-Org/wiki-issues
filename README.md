@@ -19,14 +19,4 @@ All technical issues, bugs, and code-related problems should be reported in the 
 
 ---
 
-## Shared Project View
-
-Both this tracker and the main issue tracker are combined into a single project board:
-
-- [View the combined issue board](https://github.com/orgs/Consumer-Rights-Wiki-Org/projects/1)
-
-For more guidance on contributing, see the [Contributing Guide](https://github.com/Consumer-Rights-Wiki-Org/wiki/blob/main/CONTRIBUTING.md).
-
----
-
 Thank you for helping improve the Consumer Rights Wiki!
