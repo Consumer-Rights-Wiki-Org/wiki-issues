@@ -3,9 +3,9 @@
 This repository is used for **non-code-related issues** only. That includes:
 
 - Feature requests
-- Content suggestions
+- Extension suggestions
 - Community discussion
-- Planning and coordination
+- etc
 
 ---
 
